@@ -1,4 +1,8 @@
 _repo: A-Parody-on-Princess-Ida_48246
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48246-h/images/cover.jpg
 creator:
   author:
     agent_name: Dalziel, D. (Davison)
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '43566'
     url: http://www.gutenberg.org/2009/agents/43566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48246#A-Parody-on-Princess-Ida
 gutenberg_issued: '2015-02-12'
 gutenberg_type: Text
 identifiers:
